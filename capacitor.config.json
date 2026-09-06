@@ -1,0 +1,10 @@
+{
+  "appId": "com.territorytrails.game3d",
+  "appName": "Territory Trails 3D",
+  "webDir": ".",
+  "server": { "androidScheme": "https" },
+  "android": { "allowMixedContent": false },
+  "plugins": {
+    "SplashScreen": { "launchShowDuration": 800, "backgroundColor": "#5ec1e8" }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Territory Trails 3D",
+  "short_name": "Trails 3D",
+  "description": "Draw trails, close loops, capture territory! A colorful 3D territory-capture game with bots, skins, worlds and levels.",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#5ec1e8",
+  "theme_color": "#5ec1e8",
+  "icons": [
+    { "src": "assets/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
